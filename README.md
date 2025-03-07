@@ -8,7 +8,7 @@
 
 ```shell
 -> % python --version
-Python 3.9.9
+Python 3.13.2
 ```
 
 ## ファイル一覧
@@ -20,4 +20,6 @@ Python 3.9.9
 - `add_collaboration.py`
   - `box_auth.py`を利用して、Boxのコラボレータを一括で任意のメールアドレスに付与するスクリプトです。
 
+- `streamlit-test/`
+  - Streamlitの学習用ディレクトリです。
 以上
